@@ -17,4 +17,4 @@ Download and extract the archive:
 tar -xzf noaa-weather-sample-data.tar.gz
 
 ## 📥 Download
-[Download noaa-weather-sample-data.tar.gz](https://github.com/yourusername/weather-data/raw/main/noaa-weather-sample-data.tar.gz)
+[Download noaa-weather-sample-data.tar.gz](https://github.com/IanDobbs/weather-data/raw/main/noaa-weather-sample-data.tar.gz)
