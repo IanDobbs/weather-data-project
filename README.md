@@ -15,3 +15,6 @@ This repository contains a compressed tar archive of NOAA weather sample data, s
 Download and extract the archive:
 ```bash
 tar -xzf noaa-weather-sample-data.tar.gz
+
+## 📥 Download
+[Download noaa-weather-sample-data.tar.gz](https://github.com/yourusername/weather-data/raw/main/noaa-weather-sample-data.tar.gz)
